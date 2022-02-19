@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0fff209f-9e05-48d1-a0d1-6579adb65343": {
+      "ProjectGuid": "0fff209f-9e05-48d1-a0d1-6579adb65343",
+      "DisplayName": "Cola",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
